@@ -1,0 +1,20 @@
+{
+    "Author": "Arun Jolly",
+    "ContentSize": 2796,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/aiicm-connector-create-icm-incident-from-application-insights-alert/master/Create-AIToICMIncident.ps1",
+    "DownloadCount": 2442,
+    "Id": "AI-ICM-Connector-Create-2e2585ab",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 119,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-4-12T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The script receives the incoming alert context data from Application Insights.\u00a0 This runbook is dependent on the AI-ICM-Connector Automation module which needs to be downloaded seperately.",
+    "Title": "AI-ICM Connector - Create ICM Incident from Application Insights alert",
+    "UpdatedDate": "2016-4-29T00:00:00",
+    "Url": "https://github.com/azureautomation/aiicm-connector-create-icm-incident-from-application-insights-alert",
+    "UserTags": "Utility, Monitoring, Remediation"
+}
